@@ -1,0 +1,53 @@
+Bad Neighbors Go To Market Strategy
+
+-Front End
+Rendering
+Building the Overworld in Unity
+
+	Tiles
+		Empty Room
+
+
+	Units
+		Dogs
+		Workers
+		Specialists
+		Managers
+		Executive
+
+	Items
+		Weapons
+			Spear
+			Bomb
+
+
+User Interface
+	Start Menu 
+	Pause Menu
+	Player Profile
+	Unit Action SubMenu	
+	HUD
+
+
+-Back End
+Sound Design(Sound Effects and Triggers, Background Music)
+Animation
+	
+
+
+---Unanswered Questions:
+How is fog of war rendered?
+What perspective are you playing from?
+How many Trade Skills will there be in the game (tentative answer 8)?
+How do we designate different unit rank.()
+What function should dogs serve(tentative answer:Guard, Scout)?
+Will the game environment be destructible?
+What should be the difficulty of each trade skill?
+	Construction
+	Medical
+	Espionage
+	Diplomacy
+	Combat
+	Engineering
+	
+
